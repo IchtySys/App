@@ -35,3 +35,4 @@ Este software ha sido desarrollado por **Emmanuel Manosalva**.
 
 ---
 *Plataforma técnica de apoyo al ordenamiento pesquero.*
+
