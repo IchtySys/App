@@ -27,8 +27,9 @@ IchtySys es una plataforma digital especializada para la recolección, sistemati
 ## Autores y Derechos
 
 Este software ha sido desarrollado por **Emmanuel Manosalva**.
-* **Inicio del proyecto:** 2024.
-* **Ciclo de desarrollo:** 2024 - 2026 (en actualización constante).
+* **Inicio del desarrollo:** Diciembre de 2023.
+* **Inicio de operaciones:** 2024.
+* **Ciclo de desarrollo:** 2023 - 2026 (en actualización constante).
 
 © 2026 Emmanuel Manosalva | Insopesca El Morro. Todos los derechos reservados.
 
